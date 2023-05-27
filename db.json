@@ -22,6 +22,17 @@
       "hourly_rate": 30,
       "profile_picture": "profile2.jpg",
 			"isBooked" : true
+    },
+    {
+      "id": 3,
+      "name": "Harshita",
+      "email": "h@example.com",
+      "password": "password",
+      "profession": "Student",
+      "skills": ["Photoshop", "Illustrator"],
+      "hourly_rate": 30,
+      "profile_picture": "profile2.jpg",
+			"isBooked" : false
     }
   ]
 }
